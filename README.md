@@ -1,5 +1,4 @@
 # MORDigital Publisher
-Boris Lehečka, Ana Salgado, Toma Tasovac
 
 (add some text here)
 
